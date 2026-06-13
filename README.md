@@ -1,58 +1,50 @@
-Hey! I'm **Jilsa Mariya**.👋
+# Hi, I'm Jilsa Mariya 👋
 
-I’m just a curious developer who’s always excited to learn new things and build projects that make a real difference. I’ve been diving into web development and creating tools to help people grow in their careers and contribute to a better world 🌍✨
-Right now, I’m working on **SkillTrak**, **MoodMentor**, and **Loopfy**—each project has its own unique mission, and I’m loving how each one challenges me to grow as a developer. 🚀💻
+I'm a Computer Science Engineering student who enjoys building technology that solves real problems.
 
---
+Over the past few years, I've worked on projects ranging from AI-powered wellness applications and career guidance platforms to predictive analytics systems and hackathon solutions. Through these experiences, I've developed a strong interest in backend development, databases, and AI-integrated applications.
 
-**🚀 What I’m Working With**
+## 🚀 What I Do
 
-**Frontend**: HTML, CSS, JavaScript (still getting the hang of it, but I love it! 🎨)
+* Build web applications using Python, Flask, JavaScript, and databases
+* Explore practical applications of AI and machine learning
+* Design and manage database-driven systems
+* Collaborate on projects that create meaningful user impact
 
-**Backend**: Python (Flask) and Node.js (learning as I go 🐍💡)
+## 🛠 Tech Stack
 
-**Databases**: MySQL, PostgreSQL (databases are like puzzles, and I enjoy solving them 🧩)
+**Languages:** Python, JavaScript, SQL, C
 
-**Tools**: Git, VSCode, Figma (I spend too much time making things look pretty 👨‍💻✨)
+**Backend:** Flask, REST API Integration
 
---
+**Databases:** MySQL, MongoDB
 
-**🧑‍💻 What’s On My Plate Right Now**
+**AI/ML:** LSTM Model Training, AI Integration
 
-**SkillTrak**: A platform to help people track their skills and find courses to level up for the job they want. I'm working on making it more personalized so it feels like it’s really helping people 🎯📈
+**Tools:** Git, GitHub, Figma, VS Code
 
-**MoodMentor**: A project focused on improving mental well-being by offering tailored guidance, resources, and support to create a better balance in life 💆‍♂️💡
+## 📌 Featured Projects
 
-**Loopfy**: A website dedicated to promoting recycling and sustainability. It helps users understand the impact of waste and encourages them to take part in recycling efforts to make a positive change in the environment 🌱♻️
+### Thermal Sense
 
---
+AI-based thermal prediction system using LSTM models for temperature forecasting and cooling optimization.
 
-**🌱 What I’m Learning**
+### SkillTrack
 
-**Optimizing Database Queries**: I’ve been digging into ways to optimize MySQL queries. It’s surprisingly tricky when dealing with large datasets, and I’m learning how to use indexes and write more efficient queries 📊🚀
+Career guidance platform offering learning roadmaps, skill assessments, and personalized recommendations.
 
-**User Experience Design**: I’m getting into the nitty-gritty of UX design to make sure my projects are as user-friendly as possible. This involves studying usability principles, conducting user testing, and tweaking UI elements for better flow 🖌️👥
+### Moodmender
 
-**Debugging**: I’m learning how to debug more effectively, especially when things break in production. I’m getting better at using tools like the browser console, Postman, and debugging techniques in Python and JavaScript 🔍🐛
+AI-powered mood tracking application featuring journaling, emotion analysis, and chatbot-assisted interaction.
 
---
+## 🌱 Beyond Development
 
-**🎮 When I’m Not Coding…**
+Alongside academics and projects, I've been involved in student activities and event coordination, experiences that have strengthened my teamwork, communication, and leadership skills.
 
-**Exploring New Tech**: I’m always reading blogs, watching YouTube tutorials, or browsing Stack Overflow to pick up new tips and tricks. It’s not always coding, but it helps me stay on top of new tools and trends 📰💡
+I believe the best way to learn is by building, collaborating, and continuously improving with every project.
 
-**Taking Breaks**: Let’s be honest, coding for long hours can get overwhelming. I make sure to take regular breaks—whether it’s grabbing a coffee, going for a walk, or just watching a few episodes of a TV series to reset ☕🚶‍♂️🎬
+### 📫 Connect With Me
 
-**Music & Creativity**: I love listening to music while coding—it helps me stay focused and keeps the energy up 🎧🎶. Sometimes, I even mess around with music production or pick up a guitar to unwind 🎸🎶
+📧 [jilsamariyapj@gmail.com](mailto:jilsamariyapj@gmail.com)
 
---
-
-**🤙 Let’s Chat!**
-
-Got something on your mind? Shoot me an **Email**: jilsamariya2412@gmail.com 📧
-
-Follow me on **LinkedIn**: Jilsa Mariya P J 🐦
-
-Check out my work on **GitHub**: github.com/Jilsa-Mariya 🖥️
-
-I’m always open to connecting with other developers, learning from others, or just chatting about tech, so feel free to reach out. Thanks for checking out my profile!💬
+💼 LinkedIn: LinkedIn.com/in/jilsa-mariya-p-j
